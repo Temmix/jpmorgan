@@ -1,5 +1,5 @@
 # This is JP Morgan & Chase interview app, 
-# Created using Create React App and typescript  
+## Created using Create React App and Typescript  
 
 ## Available Scripts
 
