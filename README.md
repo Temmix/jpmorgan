@@ -1,4 +1,4 @@
-# This is JP Morgan & Chase interview app, 
+# This is JP Morgan & Chase interview app. 
 ## Created using Create React App and Typescript  
 
 ## Available Scripts
