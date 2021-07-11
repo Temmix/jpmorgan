@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This is JP Morgan & Chase interview app, 
+# Created using Create React App and typescript  
 
 ## Available Scripts
 
